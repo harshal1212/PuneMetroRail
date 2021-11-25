@@ -1,0 +1,9 @@
+//Dependency Of Metro Project for React
+
+npm install axios --save
+npm install react-router-dom
+npm install bootstrap --save
+npm install react-bootstrap bootstrap
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install sass-loader sass webpack --save-dev
